@@ -1,4 +1,4 @@
-# Null0rigin CTF 2026 — Grand Finale — RUY Writeup
+# NullOrigin CTF 2026 — Grand Finale — RUY Writeup
 
 **Team:** RUY (ednk, ftps3rver, AlatBekam)
 **Organiser:** CyberHX
